@@ -1,0 +1,19 @@
+li{
+    margin-left: 20px;
+  }
+  ul{
+    margin-left:5%;
+    list-style: none;
+  }
+  ul:nth-child(2){
+    margin-top:25px;
+  }
+  ul:nth-child(3){
+    margin-top:25px;
+  }
+  ul:nth-child(4){
+    margin-top:25px;
+  }
+  button{
+    width: 15rem;
+  }
